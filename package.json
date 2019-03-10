@@ -1,0 +1,14 @@
+{
+  "name": "classifier-server",
+  "version": "1.0.0",
+  "description": "Playground server to test express.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Erik Bausano",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
